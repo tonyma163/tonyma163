@@ -3,10 +3,3 @@
 <h1 align="center">Hi 👋, I'm Tony Ma</h1>
 
 - 📫 How to reach me **mamanto163@gmail.com**
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tonyma163&theme=dark&hide_border=true&background=FF70AC&fire=EBEBEB&currStreakLabel=EBEBEB&ring=EBEBEB&sideNums=EBEBEB&dates=EBEBEB" alt="GitHub Streak" /></a>
-
-<h3 align="left">Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyma163&show_icons=true&locale=en&layout=compact" alt="tonyma163" /></p>
-
-<br>
